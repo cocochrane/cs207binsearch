@@ -1,4 +1,4 @@
-from binsearch import binary_search
+from binarysearch import binary_search
 
 import unittest
 import numpy as np
