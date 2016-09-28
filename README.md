@@ -1,5 +1,5 @@
 
-# cs207test
+# cs207binsearch
 
 [![Build Status](https://travis-ci.org/cocochrane/cs207binsearch.svg?branch=master)](https://travis-ci.org/cocochrane/cs207binsearch)
 
