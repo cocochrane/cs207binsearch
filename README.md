@@ -1,6 +1,6 @@
 
 # cs207test
 
-[![Build Status](https://travis-ci.org/rahuldave/cs207test.svg?branch=master)](https://travis-ci.org/rahuldave/cs207test)
+[![Build Status](https://travis-ci.org/cocochrane/cs207binsearch.svg?branch=master)](https://travis-ci.org/cocochrane/cs207binsearch)
 
-[![Coverage Status](https://coveralls.io/repos/github/rahuldave/cs207test/badge.svg?branch=master)](https://coveralls.io/github/rahuldave/cs207test?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/cocochrane/cs207binsearch/badge.svg?branch=master)](https://coveralls.io/github/cocochrane/cs207binsearch?branch=master)
